@@ -1,0 +1,793 @@
+nombre,id_partido,equipo_a,equipo_b,goles_a,goles_b
+Luly,1,Mexico,Sudafrica,1,1
+Luly,2,Corea Sur,Chequia,1,0
+Luly,3,Canada,Bosnia,1,0
+Luly,4,USA,Paraguay,1,2
+Luly,5,Haiti,Escocia,1,1
+Luly,6,Australia,Turquia,1,1
+Luly,7,Brasil,Marruecos,4,1
+Luly,8,Catar,Suiza,1,1
+Luly,9,Alemania,Curazao,3,0
+Luly,10,Costa de Marfil,Ecuador,1,2
+Luly,11,Holanda,Japon,2,2
+Luly,12,Suecia,Tunez,1,0
+Luly,13,Arabia Saudi,Uruguay,0,2
+Luly,14,España,Cabo Verde,2,0
+Luly,15,Iran,Nueva Zelanda,1,1
+Luly,16,Belgica,Egipto,2,0
+Luly,17,Francia,Senegal,2,1
+Luly,18,Irak,Noruega,1,1
+Luly,19,Argentina,Argelia,3,1
+Luly,20,Austria,Jordania,1,1
+Luly,21,Ghana,Panamá,2,0
+Luly,22,Inglaterra,Croacia,2,2
+Luly,23,Portugal,Congo,3,0
+Luly,24,Uzbekistan,Colombia,0,3
+Luly,25,Checa,Sudafrica,0,2
+Luly,26,Suiza,Bosnia,2,1
+Luly,27,Canada,Catar,1,1
+Luly,28,Mexico,Corea,2,1
+Luly,29,Brasil,Haiti,4,0
+Luly,30,Escocia,Marruecos,1,1
+Luly,31,Turquia,Paraguay,1,1
+Luly,32,USA,Australia,1,1
+Luly,33,Alemania,Costa de Marfil,2,1
+Luly,34,Ecuador,Curazao,2,0
+Luly,35,Holanda,Suecia,2,1
+Luly,36,Tunez,Japon,0,2
+Luly,37,Uruguay,Cabo Verde,2,0
+Luly,38,España,Arabia Saudi,2,0
+Luly,39,Belgica,Iran,2,1
+Luly,40,Nueva Zelanda,Egipto,0,0
+Luly,41,Noruega,Senegal,1,1
+Luly,42,Francia,Irak,3,1
+Luly,43,Argentina,Austria,3,1
+Luly,44,Jordania ,Argelia,1,1
+Luly,45,Inglaterra,Ghana,2,0
+Luly,46,Panama,Croacia,0,3
+Luly,47,Portugal,Uzbekistan,3,0
+Luly,48,Colombia,Congo,3,0
+Luly,49,Escocia,Brasil,0,3
+Luly,50,Marruecos,Haiti,1,0
+Luly,51,Suiza,Canada,2,1
+Luly,52,Bosnia,Catar,1,1
+Luly,53,Checa,Mexico,0,2
+Luly,54,Sudafrica,Corea,1,1
+Luly,55,Curazao,Costa de Marfil,0,2
+Luly,56,Ecuador,Alemania,1,1
+Luly,57,Japon,Suecia,2,1
+Luly,58,Tunez,Holanda,0,2
+Luly,59,Turquia,USA,0,2
+Luly,60,Paraguay,Australia,2,1
+Luly,61,Noruega,Francia,0,2
+Luly,62,Senegal,Irak,2,0
+Luly,63,Egipto,Iran,0,0
+Luly,64,Nueva Zelanda,Belgica,0,2
+Luly,65,Cabo verde,Arabia Saudi,0,0
+Luly,66,Uruguay,España,2,2
+Luly,67,Panama,Inglaterra,0,3
+Luly,68,Croacia,Ghana,2,0
+Luly,69,Argelia,Austria,0,0
+Luly,70,Jordania ,Argentina,0,3
+Luly,71,Colombia,Portugal,1,1
+Luly,72,Congo,Uzbekistan,1,0
+Domi,1,Mexico,Sudafrica,2,1
+Domi,2,Corea Sur,Chequia,3,1
+Domi,3,Canada,Bosnia,1,0
+Domi,4,USA,Paraguay,0,2
+Domi,5,Haiti,Escocia,0,2
+Domi,6,Australia,Turquia,2,1
+Domi,7,Brasil,Marruecos,4,0
+Domi,8,Catar,Suiza,0,3
+Domi,9,Alemania,Curazao,3,1
+Domi,10,Costa de Marfil,Ecuador,1,2
+Domi,11,Holanda,Japon,1,1
+Domi,12,Suecia,Tunez,2,1
+Domi,13,Arabia Saudi,Uruguay,1,2
+Domi,14,España,Cabo Verde,2,1
+Domi,15,Iran,Nueva Zelanda,1,2
+Domi,16,Belgica,Egipto,3,2
+Domi,17,Francia,Senegal,3,1
+Domi,18,Irak,Noruega,1,2
+Domi,19,Argentina,Argelia,3,0
+Domi,20,Austria,Jordania,2,1
+Domi,21,Ghana,Panamá,1,2
+Domi,22,Inglaterra,Croacia,2,1
+Domi,23,Portugal,Congo,2,1
+Domi,24,Uzbekistan,Colombia,0,3
+Domi,25,Checa,Sudafrica,1,2
+Domi,26,Suiza,Bosnia,2,1
+Domi,27,Canada,Catar,2,1
+Domi,28,Mexico,Corea,1,2
+Domi,29,Brasil,Haiti,4,0
+Domi,30,Escocia,Marruecos,2,0
+Domi,31,Turquia,Paraguay,1,2
+Domi,32,USA,Australia,1,3
+Domi,33,Alemania,Costa de Marfil,3,0
+Domi,34,Ecuador,Curazao,2,1
+Domi,35,Holanda,Suecia,2,1
+Domi,36,Tunez,Japon,1,2
+Domi,37,Uruguay,Cabo Verde,3,1
+Domi,38,España,Arabia Saudi,3,0
+Domi,39,Belgica,Iran,2,0
+Domi,40,Nueva Zelanda,Egipto,1,1
+Domi,41,Noruega,Senegal,2,0
+Domi,42,Francia,Irak,3,1
+Domi,43,Argentina,Austria,3,1
+Domi,44,Jordania ,Argelia,1,1
+Domi,45,Inglaterra,Ghana,3,1
+Domi,46,Panama,Croacia,2,1
+Domi,47,Portugal,Uzbekistan,2,0
+Domi,48,Colombia,Congo,3,0
+Domi,49,Escocia,Brasil,1,3
+Domi,50,Marruecos,Haiti,1,1
+Domi,51,Suiza,Canada,2,1
+Domi,52,Bosnia,Catar,2,1
+Domi,53,Checa,Mexico,2,1
+Domi,54,Sudafrica,Corea,1,2
+Domi,55,Curazao,Costa de Marfil,1,1
+Domi,56,Ecuador,Alemania,1,1
+Domi,57,Japon,Suecia,2,1
+Domi,58,Tunez,Holanda,1,2
+Domi,59,Turquia,USA,2,1
+Domi,60,Paraguay,Australia,2,1
+Domi,61,Noruega,Francia,1,2
+Domi,62,Senegal,Irak,1,2
+Domi,63,Egipto,Iran,2,1
+Domi,64,Nueva Zelanda,Belgica,1,2
+Domi,65,Cabo verde,Arabia Saudi,1,1
+Domi,66,Uruguay,España,1,2
+Domi,67,Panama,Inglaterra,1,2
+Domi,68,Croacia,Ghana,2,0
+Domi,69,Argelia,Austria,0,2
+Domi,70,Jordania ,Argentina,0,3
+Domi,71,Colombia,Portugal,1,2
+Domi,72,Congo,Uzbekistan,2,1
+LENA,1,Mexico,Sudafrica,2,1
+LENA,2,Corea Sur,Chequia,1,0
+LENA,3,Canada,Bosnia,2,0
+LENA,4,USA,Paraguay,2,1
+LENA,5,Haiti,Escocia,0,1
+LENA,6,Australia,Turquia,1,0
+LENA,7,Brasil,Marruecos,2,1
+LENA,8,Catar,Suiza,0,1
+LENA,9,Alemania,Curazao,2,0
+LENA,10,Costa de Marfil,Ecuador,1,2
+LENA,11,Holanda,Japon,2,1
+LENA,12,Suecia,Tunez,1,0
+LENA,13,Arabia Saudi,Uruguay,1,2
+LENA,14,España,Cabo Verde,3,1
+LENA,15,Iran,Nueva Zelanda,2,1
+LENA,16,Belgica,Egipto,1,0
+LENA,17,Francia,Senegal,3,1
+LENA,18,Irak,Noruega,0,2
+LENA,19,Argentina,Argelia,3,0
+LENA,20,Austria,Jordania,1,0
+LENA,21,Ghana,Panamá,2,0
+LENA,22,Inglaterra,Croacia,3,1
+LENA,23,Portugal,Congo,2,0
+LENA,24,Uzbekistan,Colombia,1,2
+LENA,25,Checa,Sudafrica,0,1
+LENA,26,Suiza,Bosnia,1,0
+LENA,27,Canada,Catar,2,1
+LENA,28,Mexico,Corea,1,2
+LENA,29,Brasil,Haiti,3,0
+LENA,30,Escocia,Marruecos,2,1
+LENA,31,Turquia,Paraguay,0,2
+LENA,32,USA,Australia,1,0
+LENA,33,Alemania,Costa de Marfil,3,1
+LENA,34,Ecuador,Curazao,2,1
+LENA,35,Holanda,Suecia,2,1
+LENA,36,Tunez,Japon,0,2
+LENA,37,Uruguay,Cabo Verde,2,0
+LENA,38,España,Arabia Saudi,3,1
+LENA,39,Belgica,Iran,1,0
+LENA,40,Nueva Zelanda,Egipto,0,1
+LENA,41,Noruega,Senegal,1,0
+LENA,42,Francia,Irak,2,0
+LENA,43,Argentina,Austria,3,1
+LENA,44,Jordania ,Argelia,0,1
+LENA,45,Inglaterra,Ghana,2,0
+LENA,46,Panama,Croacia,1,1
+LENA,47,Portugal,Uzbekistan,2,1
+LENA,48,Colombia,Congo,2,1
+LENA,49,Escocia,Brasil,1,3
+LENA,50,Marruecos,Haiti,2,0
+LENA,51,Suiza,Canada,1,2
+LENA,52,Bosnia,Catar,0,1
+LENA,53,Checa,Mexico,1,2
+LENA,54,Sudafrica,Corea,1,2
+LENA,55,Curazao,Costa de Marfil,1,1
+LENA,56,Ecuador,Alemania,1,2
+LENA,57,Japon,Suecia,3,1
+LENA,58,Tunez,Holanda,0,1
+LENA,59,Turquia,USA,1,2
+LENA,60,Paraguay,Australia,2,1
+LENA,61,Noruega,Francia,1,3
+LENA,62,Senegal,Irak,2,1
+LENA,63,Egipto,Iran,2,0
+LENA,64,Nueva Zelanda,Belgica,0,1
+LENA,65,Cabo verde,Arabia Saudi,0,1
+LENA,66,Uruguay,España,1,3
+LENA,67,Panama,Inglaterra,1,3
+LENA,68,Croacia,Ghana,1,0
+LENA,69,Argelia,Austria,1,2
+LENA,70,Jordania ,Argentina,0,3
+LENA,71,Colombia,Portugal,1,2
+LENA,72,Congo,Uzbekistan,2,0
+Sarita,1,Mexico,Sudafrica,0,1
+Sarita,2,Corea Sur,Chequia,1,2
+Sarita,3,Canada,Bosnia,1,0
+Sarita,4,USA,Paraguay,2,1
+Sarita,5,Haiti,Escocia,1,0
+Sarita,6,Australia,Turquia,2,0
+Sarita,7,Brasil,Marruecos,3,1
+Sarita,8,Catar,Suiza,2,1
+Sarita,9,Alemania,Curazao,3,1
+Sarita,10,Costa de Marfil,Ecuador,1,2
+Sarita,11,Holanda,Japon,0,2
+Sarita,12,Suecia,Tunez,1,0
+Sarita,13,Arabia Saudi,Uruguay,3,1
+Sarita,14,España,Cabo Verde,2,0
+Sarita,15,Iran,Nueva Zelanda,1,2
+Sarita,16,Belgica,Egipto,1,1
+Sarita,17,Francia,Senegal,3,0
+Sarita,18,Irak,Noruega,1,1
+Sarita,19,Argentina,Argelia,3,0
+Sarita,20,Austria,Jordania,0,0
+Sarita,21,Ghana,Panamá,2,1
+Sarita,22,Inglaterra,Croacia,3,1
+Sarita,23,Portugal,Congo,1,0
+Sarita,24,Uzbekistan,Colombia,0,2
+Sarita,25,Checa,Sudafrica,1,2
+Sarita,26,Suiza,Bosnia,2,0
+Sarita,27,Canada,Catar,1,2
+Sarita,28,Mexico,Corea,2,1
+Sarita,29,Brasil,Haiti,3,0
+Sarita,30,Escocia,Marruecos,1,1
+Sarita,31,Turquia,Paraguay,0,2
+Sarita,32,USA,Australia,3,1
+Sarita,33,Alemania,Costa de Marfil,3,0
+Sarita,34,Ecuador,Curazao,2,1
+Sarita,35,Holanda,Suecia,2,0
+Sarita,36,Tunez,Japon,0,2
+Sarita,37,Uruguay,Cabo Verde,2,0
+Sarita,38,España,Arabia Saudi,3,1
+Sarita,39,Belgica,Iran,1,1
+Sarita,40,Nueva Zelanda,Egipto,2,1
+Sarita,41,Noruega,Senegal,3,1
+Sarita,42,Francia,Irak,3,0
+Sarita,43,Argentina,Austria,3,1
+Sarita,44,Jordania ,Argelia,0,0
+Sarita,45,Inglaterra,Ghana,3,0
+Sarita,46,Panama,Croacia,2,1
+Sarita,47,Portugal,Uzbekistan,1,1
+Sarita,48,Colombia,Congo,2,0
+Sarita,49,Escocia,Brasil,1,3
+Sarita,50,Marruecos,Haiti,3,1
+Sarita,51,Suiza,Canada,2,1
+Sarita,52,Bosnia,Catar,2,1
+Sarita,53,Checa,Mexico,1,3
+Sarita,54,Sudafrica,Corea,3,1
+Sarita,55,Curazao,Costa de Marfil,1,1
+Sarita,56,Ecuador,Alemania,2,3
+Sarita,57,Japon,Suecia,2,1
+Sarita,58,Tunez,Holanda,1,3
+Sarita,59,Turquia,USA,1,3
+Sarita,60,Paraguay,Australia,1,2
+Sarita,61,Noruega,Francia,1,3
+Sarita,62,Senegal,Irak,1,1
+Sarita,63,Egipto,Iran,1,1
+Sarita,64,Nueva Zelanda,Belgica,2,1
+Sarita,65,Cabo verde,Arabia Saudi,1,2
+Sarita,66,Uruguay,España,0,2
+Sarita,67,Panama,Inglaterra,1,2
+Sarita,68,Croacia,Ghana,1,1
+Sarita,69,Argelia,Austria,0,2
+Sarita,70,Jordania ,Argentina,1,3
+Sarita,71,Colombia,Portugal,2,1
+Sarita,72,Congo,Uzbekistan,0,1
+Suco,1,Mexico,Sudafrica,0,1
+Suco,2,Corea Sur,Chequia,2,0
+Suco,3,Canada,Bosnia,0,0
+Suco,4,USA,Paraguay,0,1
+Suco,5,Haiti,Escocia,0,3
+Suco,6,Australia,Turquia,2,2
+Suco,7,Brasil,Marruecos,3,2
+Suco,8,Catar,Suiza,0,2
+Suco,9,Alemania,Curazao,4,0
+Suco,10,Costa de Marfil,Ecuador,1,1
+Suco,11,Holanda,Japon,1,1
+Suco,12,Suecia,Tunez,2,0
+Suco,13,Arabia Saudi,Uruguay,0,3
+Suco,14,España,Cabo Verde,4,0
+Suco,15,Iran,Nueva Zelanda,0,0
+Suco,16,Belgica,Egipto,2,1
+Suco,17,Francia,Senegal,2,1
+Suco,18,Irak,Noruega,0,3
+Suco,19,Argentina,Argelia,3,0
+Suco,20,Austria,Jordania,1,1
+Suco,21,Ghana,Panamá,1,2
+Suco,22,Inglaterra,Croacia,0,1
+Suco,23,Portugal,Congo,2,0
+Suco,24,Uzbekistan,Colombia,0,2
+Suco,25,Checa,Sudafrica,1,1
+Suco,26,Suiza,Bosnia,2,0
+Suco,27,Canada,Catar,3,0
+Suco,28,Mexico,Corea,1,2
+Suco,29,Brasil,Haiti,4,0
+Suco,30,Escocia,Marruecos,0,2
+Suco,31,Turquia,Paraguay,2,3
+Suco,32,USA,Australia,2,0
+Suco,33,Alemania,Costa de Marfil,1,1
+Suco,34,Ecuador,Curazao,3,0
+Suco,35,Holanda,Suecia,1,0
+Suco,36,Tunez,Japon,2,2
+Suco,37,Uruguay,Cabo Verde,5,0
+Suco,38,España,Arabia Saudi,3,0
+Suco,39,Belgica,Iran,2,1
+Suco,40,Nueva Zelanda,Egipto,0,1
+Suco,41,Noruega,Senegal,0,0
+Suco,42,Francia,Irak,2,1
+Suco,43,Argentina,Austria,1,1
+Suco,44,Jordania ,Argelia,1,3
+Suco,45,Inglaterra,Ghana,2,0
+Suco,46,Panama,Croacia,0,2
+Suco,47,Portugal,Uzbekistan,2,0
+Suco,48,Colombia,Congo,1,0
+Suco,49,Escocia,Brasil,0,2
+Suco,50,Marruecos,Haiti,3,0
+Suco,51,Suiza,Canada,0,1
+Suco,52,Bosnia,Catar,0,0
+Suco,53,Checa,Mexico,1,0
+Suco,54,Sudafrica,Corea,1,1
+Suco,55,Curazao,Costa de Marfil,0,2
+Suco,56,Ecuador,Alemania,1,0
+Suco,57,Japon,Suecia,0,0
+Suco,58,Tunez,Holanda,1,1
+Suco,59,Turquia,USA,1,0
+Suco,60,Paraguay,Australia,2,0
+Suco,61,Noruega,Francia,0,1
+Suco,62,Senegal,Irak,2,2
+Suco,63,Egipto,Iran,1,0
+Suco,64,Nueva Zelanda,Belgica,0,1
+Suco,65,Cabo verde,Arabia Saudi,0,3
+Suco,66,Uruguay,España,1,0
+Suco,67,Panama,Inglaterra,0,2
+Suco,68,Croacia,Ghana,3,1
+Suco,69,Argelia,Austria,0,2
+Suco,70,Jordania ,Argentina,0,2
+Suco,71,Colombia,Portugal,1,0
+Suco,72,Congo,Uzbekistan,4,2
+Toño,1,Mexico,Sudafrica,2,0
+Toño,2,Corea Sur,Chequia,1,1
+Toño,3,Canada,Bosnia,2,1
+Toño,4,USA,Paraguay,1,2
+Toño,5,Haiti,Escocia,0,2
+Toño,6,Australia,Turquia,1,1
+Toño,7,Brasil,Marruecos,2,0
+Toño,8,Catar,Suiza,0,1
+Toño,9,Alemania,Curazao,4,0
+Toño,10,Costa de Marfil,Ecuador,1,2
+Toño,11,Holanda,Japon,2,1
+Toño,12,Suecia,Tunez,2,0
+Toño,13,Arabia Saudi,Uruguay,1,2
+Toño,14,España,Cabo Verde,4,0
+Toño,15,Iran,Nueva Zelanda,2,0
+Toño,16,Belgica,Egipto,1,1
+Toño,17,Francia,Senegal,3,0
+Toño,18,Irak,Noruega,1,2
+Toño,19,Argentina,Argelia,2,0
+Toño,20,Austria,Jordania,2,0
+Toño,21,Ghana,Panamá,2,1
+Toño,22,Inglaterra,Croacia,1,1
+Toño,23,Portugal,Congo,2,0
+Toño,24,Uzbekistan,Colombia,0,2
+Toño,25,Checa,Sudafrica,2,0
+Toño,26,Suiza,Bosnia,2,1
+Toño,27,Canada,Catar,2,0
+Toño,28,Mexico,Corea,1,1
+Toño,29,Brasil,Haiti,4,0
+Toño,30,Escocia,Marruecos,1,1
+Toño,31,Turquia,Paraguay,1,1
+Toño,32,USA,Australia,2,1
+Toño,33,Alemania,Costa de Marfil,4,0
+Toño,34,Ecuador,Curazao,2,0
+Toño,35,Holanda,Suecia,3,1
+Toño,36,Tunez,Japon,0,2
+Toño,37,Uruguay,Cabo Verde,2,0
+Toño,38,España,Arabia Saudi,3,0
+Toño,39,Belgica,Iran,2,1
+Toño,40,Nueva Zelanda,Egipto,0,1
+Toño,41,Noruega,Senegal,1,1
+Toño,42,Francia,Irak,4,0
+Toño,43,Argentina,Austria,3,1
+Toño,44,Jordania ,Argelia,1,2
+Toño,45,Inglaterra,Ghana,3,1
+Toño,46,Panama,Croacia,0,2
+Toño,47,Portugal,Uzbekistan,1,1
+Toño,48,Colombia,Congo,2,1
+Toño,49,Escocia,Brasil,1,3
+Toño,50,Marruecos,Haiti,2,0
+Toño,51,Suiza,Canada,1,1
+Toño,52,Bosnia,Catar,2,1
+Toño,53,Checa,Mexico,1,2
+Toño,54,Sudafrica,Corea,1,2
+Toño,55,Curazao,Costa de Marfil,1,2
+Toño,56,Ecuador,Alemania,2,1
+Toño,57,Japon,Suecia,1,1
+Toño,58,Tunez,Holanda,0,2
+Toño,59,Turquia,USA,1,1
+Toño,60,Paraguay,Australia,2,0
+Toño,61,Noruega,Francia,1,2
+Toño,62,Senegal,Irak,2,0
+Toño,63,Egipto,Iran,2,1
+Toño,64,Nueva Zelanda,Belgica,0,3
+Toño,65,Cabo verde,Arabia Saudi,1,2
+Toño,66,Uruguay,España,0,2
+Toño,67,Panama,Inglaterra,0,2
+Toño,68,Croacia,Ghana,2,2
+Toño,69,Argelia,Austria,1,1
+Toño,70,Jordania ,Argentina,0,3
+Toño,71,Colombia,Portugal,1,2
+Toño,72,Congo,Uzbekistan,1,1
+Valentina,1,Mexico,Sudafrica,2,0
+Valentina,2,Corea Sur,Chequia,3,0
+Valentina,3,Canada,Bosnia,1,0
+Valentina,4,USA,Paraguay,2,1
+Valentina,5,Haiti,Escocia,2,1
+Valentina,6,Australia,Turquia,1,2
+Valentina,7,Brasil,Marruecos,1,2
+Valentina,8,Catar,Suiza,0,3
+Valentina,9,Alemania,Curazao,3,0
+Valentina,10,Costa de Marfil,Ecuador,0,1
+Valentina,11,Holanda,Japon,2,1
+Valentina,12,Suecia,Tunez,1,2
+Valentina,13,Arabia Saudi,Uruguay,0,2
+Valentina,14,España,Cabo Verde,4,0
+Valentina,15,Iran,Nueva Zelanda,2,1
+Valentina,16,Belgica,Egipto,3,1
+Valentina,17,Francia,Senegal,3,1
+Valentina,18,Irak,Noruega,1,2
+Valentina,19,Argentina,Argelia,4,0
+Valentina,20,Austria,Jordania,2,0
+Valentina,21,Ghana,Panamá,2,1
+Valentina,22,Inglaterra,Croacia,2,0
+Valentina,23,Portugal,Congo,3,0
+Valentina,24,Uzbekistan,Colombia,0,3
+Valentina,25,Checa,Sudafrica,0,2
+Valentina,26,Suiza,Bosnia,2,1
+Valentina,27,Canada,Catar,2,0
+Valentina,28,Mexico,Corea,1,0
+Valentina,29,Brasil,Haiti,4,0
+Valentina,30,Escocia,Marruecos,0,3
+Valentina,31,Turquia,Paraguay,2,1
+Valentina,32,USA,Australia,2,1
+Valentina,33,Alemania,Costa de Marfil,3,1
+Valentina,34,Ecuador,Curazao,1,0
+Valentina,35,Holanda,Suecia,3,1
+Valentina,36,Tunez,Japon,0,2
+Valentina,37,Uruguay,Cabo Verde,3,0
+Valentina,38,España,Arabia Saudi,4,0
+Valentina,39,Belgica,Iran,3,0
+Valentina,40,Nueva Zelanda,Egipto,0,2
+Valentina,41,Noruega,Senegal,1,2
+Valentina,42,Francia,Irak,3,0
+Valentina,43,Argentina,Austria,3,0
+Valentina,44,Jordania ,Argelia,2,1
+Valentina,45,Inglaterra,Ghana,3,1
+Valentina,46,Panama,Croacia,1,2
+Valentina,47,Portugal,Uzbekistan,3,0
+Valentina,48,Colombia,Congo,3,0
+Valentina,49,Escocia,Brasil,0,3
+Valentina,50,Marruecos,Haiti,4,0
+Valentina,51,Suiza,Canada,2,1
+Valentina,52,Bosnia,Catar,0,1
+Valentina,53,Checa,Mexico,1,2
+Valentina,54,Sudafrica,Corea,2,1
+Valentina,55,Curazao,Costa de Marfil,0,3
+Valentina,56,Ecuador,Alemania,0,0
+Valentina,57,Japon,Suecia,2,0
+Valentina,58,Tunez,Holanda,0,3
+Valentina,59,Turquia,USA,2,1
+Valentina,60,Paraguay,Australia,2,0
+Valentina,61,Noruega,Francia,0,3
+Valentina,62,Senegal,Irak,3,0
+Valentina,63,Egipto,Iran,2,0
+Valentina,64,Nueva Zelanda,Belgica,0,2
+Valentina,65,Cabo verde,Arabia Saudi,0,2
+Valentina,66,Uruguay,España,1,3
+Valentina,67,Panama,Inglaterra,0,3
+Valentina,68,Croacia,Ghana,2,1
+Valentina,69,Argelia,Austria,1,0
+Valentina,70,Jordania ,Argentina,0,4
+Valentina,71,Colombia,Portugal,1,3
+Valentina,72,Congo,Uzbekistan,1,0
+Camilo Mena,1,Mexico,Sudafrica,2,1
+Camilo Mena,2,Corea Sur,Chequia,2,1
+Camilo Mena,3,Canada,Bosnia,2,0
+Camilo Mena,4,USA,Paraguay,1,2
+Camilo Mena,5,Haiti,Escocia,0,3
+Camilo Mena,6,Australia,Turquia,2,2
+Camilo Mena,7,Brasil,Marruecos,2,2
+Camilo Mena,8,Catar,Suiza,1,2
+Camilo Mena,9,Alemania,Curazao,5,0
+Camilo Mena,10,Costa de Marfil,Ecuador,1,2
+Camilo Mena,11,Holanda,Japon,3,1
+Camilo Mena,12,Suecia,Tunez,2,0
+Camilo Mena,13,Arabia Saudi,Uruguay,2,3
+Camilo Mena,14,España,Cabo Verde,3,0
+Camilo Mena,15,Iran,Nueva Zelanda,1,1
+Camilo Mena,16,Belgica,Egipto,3,2
+Camilo Mena,17,Francia,Senegal,3,1
+Camilo Mena,18,Irak,Noruega,1,3
+Camilo Mena,19,Argentina,Argelia,3,1
+Camilo Mena,20,Austria,Jordania,2,0
+Camilo Mena,21,Ghana,Panamá,2,0
+Camilo Mena,22,Inglaterra,Croacia,2,1
+Camilo Mena,23,Portugal,Congo,5,1
+Camilo Mena,24,Uzbekistan,Colombia,1,4
+Camilo Mena,25,Checa,Sudafrica,1,1
+Camilo Mena,26,Suiza,Bosnia,2,1
+Camilo Mena,27,Canada,Catar,3,1
+Camilo Mena,28,Mexico,Corea,2,2
+Camilo Mena,29,Brasil,Haiti,5,0
+Camilo Mena,30,Escocia,Marruecos,0,3
+Camilo Mena,31,Turquia,Paraguay,1,2
+Camilo Mena,32,USA,Australia,2,0
+Camilo Mena,33,Alemania,Costa de Marfil,3,1
+Camilo Mena,34,Ecuador,Curazao,4,0
+Camilo Mena,35,Holanda,Suecia,3,1
+Camilo Mena,36,Tunez,Japon,0,2
+Camilo Mena,37,Uruguay,Cabo Verde,2,0
+Camilo Mena,38,España,Arabia Saudi,3,1
+Camilo Mena,39,Belgica,Iran,2,0
+Camilo Mena,40,Nueva Zelanda,Egipto,0,2
+Camilo Mena,41,Noruega,Senegal,2,1
+Camilo Mena,42,Francia,Irak,5,0
+Camilo Mena,43,Argentina,Austria,3,1
+Camilo Mena,44,Jordania ,Argelia,0,1
+Camilo Mena,45,Inglaterra,Ghana,2,0
+Camilo Mena,46,Panama,Croacia,0,2
+Camilo Mena,47,Portugal,Uzbekistan,5,0
+Camilo Mena,48,Colombia,Congo,3,0
+Camilo Mena,49,Escocia,Brasil,0,3
+Camilo Mena,50,Marruecos,Haiti,4,0
+Camilo Mena,51,Suiza,Canada,1,1
+Camilo Mena,52,Bosnia,Catar,0,2
+Camilo Mena,53,Checa,Mexico,0,2
+Camilo Mena,54,Sudafrica,Corea,1,2
+Camilo Mena,55,Curazao,Costa de Marfil,0,3
+Camilo Mena,56,Ecuador,Alemania,1,1
+Camilo Mena,57,Japon,Suecia,2,0
+Camilo Mena,58,Tunez,Holanda,0,3
+Camilo Mena,59,Turquia,USA,1,2
+Camilo Mena,60,Paraguay,Australia,2,1
+Camilo Mena,61,Noruega,Francia,2,3
+Camilo Mena,62,Senegal,Irak,2,0
+Camilo Mena,63,Egipto,Iran,2,0
+Camilo Mena,64,Nueva Zelanda,Belgica,1,3
+Camilo Mena,65,Cabo verde,Arabia Saudi,0,3
+Camilo Mena,66,Uruguay,España,1,2
+Camilo Mena,67,Panama,Inglaterra,0,3
+Camilo Mena,68,Croacia,Ghana,2,1
+Camilo Mena,69,Argelia,Austria,0,1
+Camilo Mena,70,Jordania ,Argentina,0,4
+Camilo Mena,71,Colombia,Portugal,1,3
+Camilo Mena,72,Congo,Uzbekistan,1,1
+Pablito Mena ,1,Mexico,Sudafrica,1,2
+Pablito Mena ,2,Corea Sur,Chequia,1,1
+Pablito Mena ,3,Canada,Bosnia,1,3
+Pablito Mena ,4,USA,Paraguay,2,2
+Pablito Mena ,5,Haiti,Escocia,0,3
+Pablito Mena ,6,Australia,Turquia,1,2
+Pablito Mena ,7,Brasil,Marruecos,2,1
+Pablito Mena ,8,Catar,Suiza,1,2
+Pablito Mena ,9,Alemania,Curazao,4,0
+Pablito Mena ,10,Costa de Marfil,Ecuador,1,3
+Pablito Mena ,11,Holanda,Japon,2,2
+Pablito Mena ,12,Suecia,Tunez,2,1
+Pablito Mena ,13,Arabia Saudi,Uruguay,0,1
+Pablito Mena ,14,España,Cabo Verde,5,0
+Pablito Mena ,15,Iran,Nueva Zelanda,2,1
+Pablito Mena ,16,Belgica,Egipto,4,0
+Pablito Mena ,17,Francia,Senegal,3,1
+Pablito Mena ,18,Irak,Noruega,1,2
+Pablito Mena ,19,Argentina,Argelia,3,1
+Pablito Mena ,20,Austria,Jordania,3,1
+Pablito Mena ,21,Ghana,Panamá,1,2
+Pablito Mena ,22,Inglaterra,Croacia,2,1
+Pablito Mena ,23,Portugal,Congo,3,0
+Pablito Mena ,24,Uzbekistan,Colombia,0,2
+Pablito Mena ,25,Checa,Sudafrica,1,0
+Pablito Mena ,26,Suiza,Bosnia,1,1
+Pablito Mena ,27,Canada,Catar,2,1
+Pablito Mena ,28,Mexico,Corea,2,2
+Pablito Mena ,29,Brasil,Haiti,4,1
+Pablito Mena ,30,Escocia,Marruecos,2,2
+Pablito Mena ,31,Turquia,Paraguay,1,2
+Pablito Mena ,32,USA,Australia,2,0
+Pablito Mena ,33,Alemania,Costa de Marfil,3,0
+Pablito Mena ,34,Ecuador,Curazao,3,1
+Pablito Mena ,35,Holanda,Suecia,1,0
+Pablito Mena ,36,Tunez,Japon,1,2
+Pablito Mena ,37,Uruguay,Cabo Verde,2,0
+Pablito Mena ,38,España,Arabia Saudi,3,0
+Pablito Mena ,39,Belgica,Iran,0,0
+Pablito Mena ,40,Nueva Zelanda,Egipto,1,0
+Pablito Mena ,41,Noruega,Senegal,1,2
+Pablito Mena ,42,Francia,Irak,3,0
+Pablito Mena ,43,Argentina,Austria,2,1
+Pablito Mena ,44,Jordania ,Argelia,0,0
+Pablito Mena ,45,Inglaterra,Ghana,2,0
+Pablito Mena ,46,Panama,Croacia,1,3
+Pablito Mena ,47,Portugal,Uzbekistan,2,0
+Pablito Mena ,48,Colombia,Congo,2,1
+Pablito Mena ,49,Escocia,Brasil,1,2
+Pablito Mena ,50,Marruecos,Haiti,3,1
+Pablito Mena ,51,Suiza,Canada,1,0
+Pablito Mena ,52,Bosnia,Catar,2,0
+Pablito Mena ,53,Checa,Mexico,2,0
+Pablito Mena ,54,Sudafrica,Corea,1,1
+Pablito Mena ,55,Curazao,Costa de Marfil,1,1
+Pablito Mena ,56,Ecuador,Alemania,1,1
+Pablito Mena ,57,Japon,Suecia,1,1
+Pablito Mena ,58,Tunez,Holanda,0,3
+Pablito Mena ,59,Turquia,USA,2,3
+Pablito Mena ,60,Paraguay,Australia,2,1
+Pablito Mena ,61,Noruega,Francia,1,3
+Pablito Mena ,62,Senegal,Irak,1,0
+Pablito Mena ,63,Egipto,Iran,0,2
+Pablito Mena ,64,Nueva Zelanda,Belgica,0,3
+Pablito Mena ,65,Cabo verde,Arabia Saudi,1,2
+Pablito Mena ,66,Uruguay,España,1,3
+Pablito Mena ,67,Panama,Inglaterra,0,3
+Pablito Mena ,68,Croacia,Ghana,3,0
+Pablito Mena ,69,Argelia,Austria,0,2
+Pablito Mena ,70,Jordania ,Argentina,0,4
+Pablito Mena ,71,Colombia,Portugal,2,3
+Pablito Mena ,72,Congo,Uzbekistan,0,1
+Daniela Mena,1,Mexico,Sudafrica,2,1
+Daniela Mena,2,Corea Sur,Chequia,1,0
+Daniela Mena,3,Canada,Bosnia,1,1
+Daniela Mena,4,USA,Paraguay,1,2
+Daniela Mena,5,Haiti,Escocia,1,3
+Daniela Mena,6,Australia,Turquia,2,0
+Daniela Mena,7,Brasil,Marruecos,3,1
+Daniela Mena,8,Catar,Suiza,1,1
+Daniela Mena,9,Alemania,Curazao,2,0
+Daniela Mena,10,Costa de Marfil,Ecuador,1,2
+Daniela Mena,11,Holanda,Japon,2,2
+Daniela Mena,12,Suecia,Tunez,1,1
+Daniela Mena,13,Arabia Saudi,Uruguay,0,2
+Daniela Mena,14,España,Cabo Verde,2,0
+Daniela Mena,15,Iran,Nueva Zelanda,0,2
+Daniela Mena,16,Belgica,Egipto,1,0
+Daniela Mena,17,Francia,Senegal,3,1
+Daniela Mena,18,Irak,Noruega,1,2
+Daniela Mena,19,Argentina,Argelia,4,2
+Daniela Mena,20,Austria,Jordania,2,2
+Daniela Mena,21,Ghana,Panamá,2,1
+Daniela Mena,22,Inglaterra,Croacia,2,1
+Daniela Mena,23,Portugal,Congo,1,1
+Daniela Mena,24,Uzbekistan,Colombia,1,3
+Daniela Mena,25,Checa,Sudafrica,0,0
+Daniela Mena,26,Suiza,Bosnia,1,0
+Daniela Mena,27,Canada,Catar,2,1
+Daniela Mena,28,Mexico,Corea,2,0
+Daniela Mena,29,Brasil,Haiti,3,1
+Daniela Mena,30,Escocia,Marruecos,2,0
+Daniela Mena,31,Turquia,Paraguay,0,2
+Daniela Mena,32,USA,Australia,1,1
+Daniela Mena,33,Alemania,Costa de Marfil,3,1
+Daniela Mena,34,Ecuador,Curazao,2,0
+Daniela Mena,35,Holanda,Suecia,2,2
+Daniela Mena,36,Tunez,Japon,0,1
+Daniela Mena,37,Uruguay,Cabo Verde,2,1
+Daniela Mena,38,España,Arabia Saudi,2,2
+Daniela Mena,39,Belgica,Iran,1,0
+Daniela Mena,40,Nueva Zelanda,Egipto,0,0
+Daniela Mena,41,Noruega,Senegal,1,0
+Daniela Mena,42,Francia,Irak,3,0
+Daniela Mena,43,Argentina,Austria,3,2
+Daniela Mena,44,Jordania ,Argelia,1,1
+Daniela Mena,45,Inglaterra,Ghana,4,1
+Daniela Mena,46,Panama,Croacia,2,0
+Daniela Mena,47,Portugal,Uzbekistan,1,0
+Daniela Mena,48,Colombia,Congo,2,0
+Daniela Mena,49,Escocia,Brasil,1,3
+Daniela Mena,50,Marruecos,Haiti,1,1
+Daniela Mena,51,Suiza,Canada,2,2
+Daniela Mena,52,Bosnia,Catar,0,0
+Daniela Mena,53,Checa,Mexico,0,2
+Daniela Mena,54,Sudafrica,Corea,0,1
+Daniela Mena,55,Curazao,Costa de Marfil,1,1
+Daniela Mena,56,Ecuador,Alemania,1,2
+Daniela Mena,57,Japon,Suecia,1,1
+Daniela Mena,58,Tunez,Holanda,1,2
+Daniela Mena,59,Turquia,USA,0,2
+Daniela Mena,60,Paraguay,Australia,1,0
+Daniela Mena,61,Noruega,Francia,1,3
+Daniela Mena,62,Senegal,Irak,1,1
+Daniela Mena,63,Egipto,Iran,2,1
+Daniela Mena,64,Nueva Zelanda,Belgica,1,1
+Daniela Mena,65,Cabo verde,Arabia Saudi,0,0
+Daniela Mena,66,Uruguay,España,2,2
+Daniela Mena,67,Panama,Inglaterra,0,3
+Daniela Mena,68,Croacia,Ghana,1,0
+Daniela Mena,69,Argelia,Austria,1,0
+Daniela Mena,70,Jordania ,Argentina,0,2
+Daniela Mena,71,Colombia,Portugal,0,1
+Daniela Mena,72,Congo,Uzbekistan,0,0
+Daniela Mena,1,Mexico,Sudafrica,2,1
+Daniela Mena,2,Corea Sur,Chequia,1,0
+Daniela Mena,3,Canada,Bosnia,1,1
+Daniela Mena,4,USA,Paraguay,1,2
+Daniela Mena,5,Haiti,Escocia,1,3
+Daniela Mena,6,Australia,Turquia,2,0
+Daniela Mena,7,Brasil,Marruecos,3,1
+Daniela Mena,8,Catar,Suiza,1,1
+Daniela Mena,9,Alemania,Curazao,2,0
+Daniela Mena,10,Costa de Marfil,Ecuador,1,2
+Daniela Mena,11,Holanda,Japon,2,2
+Daniela Mena,12,Suecia,Tunez,1,1
+Daniela Mena,13,Arabia Saudi,Uruguay,0,2
+Daniela Mena,14,España,Cabo Verde,2,0
+Daniela Mena,15,Iran,Nueva Zelanda,0,2
+Daniela Mena,16,Belgica,Egipto,1,0
+Daniela Mena,17,Francia,Senegal,3,1
+Daniela Mena,18,Irak,Noruega,1,2
+Daniela Mena,19,Argentina,Argelia,4,2
+Daniela Mena,20,Austria,Jordania,2,2
+Daniela Mena,21,Ghana,Panamá,2,1
+Daniela Mena,22,Inglaterra,Croacia,2,1
+Daniela Mena,23,Portugal,Congo,1,1
+Daniela Mena,24,Uzbekistan,Colombia,1,3
+Daniela Mena,25,Checa,Sudafrica,0,0
+Daniela Mena,26,Suiza,Bosnia,1,0
+Daniela Mena,27,Canada,Catar,2,1
+Daniela Mena,28,Mexico,Corea,2,0
+Daniela Mena,29,Brasil,Haiti,3,1
+Daniela Mena,30,Escocia,Marruecos,2,0
+Daniela Mena,31,Turquia,Paraguay,0,2
+Daniela Mena,32,USA,Australia,1,1
+Daniela Mena,33,Alemania,Costa de Marfil,3,1
+Daniela Mena,34,Ecuador,Curazao,2,0
+Daniela Mena,35,Holanda,Suecia,2,2
+Daniela Mena,36,Tunez,Japon,0,1
+Daniela Mena,37,Uruguay,Cabo Verde,2,1
+Daniela Mena,38,España,Arabia Saudi,2,2
+Daniela Mena,39,Belgica,Iran,1,0
+Daniela Mena,40,Nueva Zelanda,Egipto,0,0
+Daniela Mena,41,Noruega,Senegal,1,0
+Daniela Mena,42,Francia,Irak,3,0
+Daniela Mena,43,Argentina,Austria,3,2
+Daniela Mena,44,Jordania ,Argelia,1,1
+Daniela Mena,45,Inglaterra,Ghana,4,1
+Daniela Mena,46,Panama,Croacia,2,0
+Daniela Mena,47,Portugal,Uzbekistan,1,0
+Daniela Mena,48,Colombia,Congo,2,0
+Daniela Mena,49,Escocia,Brasil,1,3
+Daniela Mena,50,Marruecos,Haiti,1,1
+Daniela Mena,51,Suiza,Canada,2,2
+Daniela Mena,52,Bosnia,Catar,0,0
+Daniela Mena,53,Checa,Mexico,0,2
+Daniela Mena,54,Sudafrica,Corea,0,1
+Daniela Mena,55,Curazao,Costa de Marfil,1,1
+Daniela Mena,56,Ecuador,Alemania,1,2
+Daniela Mena,57,Japon,Suecia,1,1
+Daniela Mena,58,Tunez,Holanda,1,2
+Daniela Mena,59,Turquia,USA,0,2
+Daniela Mena,60,Paraguay,Australia,1,0
+Daniela Mena,61,Noruega,Francia,1,3
+Daniela Mena,62,Senegal,Irak,1,1
+Daniela Mena,63,Egipto,Iran,2,1
+Daniela Mena,64,Nueva Zelanda,Belgica,1,1
+Daniela Mena,65,Cabo verde,Arabia Saudi,0,0
+Daniela Mena,66,Uruguay,España,2,2
+Daniela Mena,67,Panama,Inglaterra,0,3
+Daniela Mena,68,Croacia,Ghana,1,0
+Daniela Mena,69,Argelia,Austria,1,0
+Daniela Mena,70,Jordania ,Argentina,0,2
+Daniela Mena,71,Colombia,Portugal,0,1
+Daniela Mena,72,Congo,Uzbekistan,0,0
